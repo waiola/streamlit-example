@@ -1,5 +1,4 @@
 altair
 pandas
 streamlit
-sklearn
 scikit-learn
